@@ -1,0 +1,19 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App{
+  margin: 0 auto;
+  width: 80%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-wrap: wrap;
+  gap: 5px;
+
+  position: relative;
+
+}
